@@ -36,8 +36,10 @@ git clone https://github.com/tingchen1992/tech_news_scraper.git
 cd tech_news_scraper
 
 ### 2️⃣ 建立虛擬環境並安裝依賴 
-`python -m venv venv`
-`source venv/bin/activate  `
+`python -m venv venv`  
+
+`source venv/bin/activate  `  
+
 `pip install -r requirements.txt`
 
 ### 3️⃣ 啟動伺服器
