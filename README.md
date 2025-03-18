@@ -29,8 +29,10 @@
 ## 安裝步驟  
 
 ### 1️⃣ clone這個專案  
-bash
-git clone https://github.com/tingchen1992/tech_news_scraper.git
+bash  
+
+git clone https://github.com/tingchen1992/tech_news_scraper.git  
+
 cd tech_news_scraper
 
 ### 2️⃣ 建立虛擬環境並安裝依賴 
