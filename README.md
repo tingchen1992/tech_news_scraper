@@ -48,6 +48,6 @@ cd tech_news_scraper
 在瀏覽器中開啟：
 http://127.0.0.1:5000
 
-### 每日自動更新
+## 每日自動更新
 專案使用 APScheduler，每天早上 8:00 自動更新 TechCrunch 最新新聞。
 
