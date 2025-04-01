@@ -36,7 +36,7 @@ git clone https://github.com/tingchen1992/tech_news_scraper.git
 cd tech_news_scraper
 
 ### 2️⃣ 建立虛擬環境並安裝依賴 
-`python -m venv venv`  
+`python3 -m venv venv`  
 
 `source venv/bin/activate  `  
 
